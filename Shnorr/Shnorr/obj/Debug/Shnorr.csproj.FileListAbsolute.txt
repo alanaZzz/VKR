@@ -1,0 +1,11 @@
+C:\8 семестр\крипта\Лабы\РЗ\Shnorr\Shnorr\obj\Debug\Shnorr.csprojAssemblyReference.cache
+C:\8 семестр\крипта\Лабы\РЗ\Shnorr\Shnorr\obj\Debug\Shnorr.Form1.resources
+C:\8 семестр\крипта\Лабы\РЗ\Shnorr\Shnorr\obj\Debug\Shnorr.Properties.Resources.resources
+C:\8 семестр\крипта\Лабы\РЗ\Shnorr\Shnorr\obj\Debug\Shnorr.csproj.GenerateResource.cache
+C:\8 семестр\крипта\Лабы\РЗ\Shnorr\Shnorr\obj\Debug\Shnorr.csproj.CoreCompileInputs.cache
+C:\8 семестр\крипта\Лабы\РЗ\Shnorr\Shnorr\bin\Debug\Shnorr.exe.config
+C:\8 семестр\крипта\Лабы\РЗ\Shnorr\Shnorr\bin\Debug\Shnorr.exe
+C:\8 семестр\крипта\Лабы\РЗ\Shnorr\Shnorr\bin\Debug\Shnorr.pdb
+C:\8 семестр\крипта\Лабы\РЗ\Shnorr\Shnorr\obj\Debug\Shnorr.exe
+C:\8 семестр\крипта\Лабы\РЗ\Shnorr\Shnorr\obj\Debug\Shnorr.pdb
+C:\8 семестр\крипта\Лабы\РЗ\Shnorr\Shnorr\obj\Debug\Shnorr.AboutBox1.resources
